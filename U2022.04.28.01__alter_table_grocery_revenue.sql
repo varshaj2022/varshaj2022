@@ -1,0 +1,2 @@
+ALTER TABLE grocery_revenue_workday_stg
+DROP COLUMN prop_22_fee;
